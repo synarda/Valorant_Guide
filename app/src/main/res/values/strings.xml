@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ValorantGuide</string>
+    <string name="welcome_text">Welcome To Valorant Guide</string>
+    <string name="touch_anybody">Touch Anybody</string>
+    <string name="game_name">Valorant</string>
+</resources>
